@@ -29,7 +29,7 @@ def generator(context,function,language,outcome_expected):
 
 
 def main():
-    st.title("Code LLama test")
+    st.title("👨‍💻 Code Generation")
     
     # Text Input Fields
     context = st.text_area("Context", "")
